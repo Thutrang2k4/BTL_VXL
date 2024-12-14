@@ -1,0 +1,4 @@
+Software_timer.c:13:6:setTimer	0	static
+Software_timer.c:17:6:clearTimer	0	static
+Software_timer.c:23:6:timer_run	8	static
+Software_timer.c:33:5:isTimerExpired	0	static

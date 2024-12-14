@@ -1,0 +1,8 @@
+TrafficLight.c:18:6:init_trafficlight	8	static
+TrafficLight.c:24:6:led_green_red	8	static
+TrafficLight.c:32:6:led_yellow_red	8	static
+TrafficLight.c:40:6:led_red_green	8	static
+TrafficLight.c:48:6:led_red_yellow	8	static
+TrafficLight.c:56:6:TogglePinRED	8	static
+TrafficLight.c:62:6:TogglePinYELLOW	8	static
+TrafficLight.c:66:6:TogglePinGREEN	8	static

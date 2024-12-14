@@ -1,0 +1,2 @@
+updateBufferLcd.c:7:6:updateBufferLcd_run	8	static
+updateBufferLcd.c:19:6:clearBuffer	16	static
